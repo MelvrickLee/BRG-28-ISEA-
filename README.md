@@ -24,6 +24,8 @@ Installation process is slow, maybe increasing CPU will make it go faster?
 
 
 
+
+
 added on @ 8/11 : 1511
 
 
