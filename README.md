@@ -6,7 +6,7 @@ This file documents my learning reflection
 
 
 
-added on @ 8/11 : 1242
+\## added on @ 8/11 : 1242
 
 
 
@@ -26,7 +26,7 @@ Installation process is slow, maybe increasing CPU will make it go faster?
 
 
 
-added on @ 8/11 : 1511
+\## added on @ 8/11 : 1511
 
 
 
@@ -95,8 +95,4 @@ downloading from a repository is the easiest for the user, as installation is ex
 
 
 installing from source code is the most secure and reliable method as the user does not need internet connection to download anything, and the user can verify what the code does before installing (assuming they did read the code). however, it is the most cumbersome method as it requires one to have the source code, and ensure the code compiles properly. the installed app also does not automatically update unlike in SAAS and downloading from repository. thus the the user needs to undergo the same process with the updated source code to make any updates.
-
-
-
-
 
