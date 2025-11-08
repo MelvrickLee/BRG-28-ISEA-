@@ -50,6 +50,16 @@ uname shows the system information, along with the os version and when it was la
 
 ls -alt seems to display when the file was last altered. hostnamectl displays system information that is easily readable to humans.
 
+i am able to ping google, but it keeps pinging multiple things (had to manually close terminal to get back control). it looks like the ping is pinging all routers/servers affiliated with google
+
+
+
+lsusb and lspci is telling me the hardware connected on the respective usb and pci slots of my computer. less/proc/cpuinfo tells me the cpu infomation and its specs. as expected, the computer only have 1 core as that is how many cores i set for the virtual machine.
+
+
+
+Although the CLI method to gets more infomation is more useful for troubleshooting/debugging, i prefer the GUI as its easier to comprehend the infomation i need daily
+
 
 
 
