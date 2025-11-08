@@ -36,3 +36,5 @@ pressing 1 and q whilst in "top" is the same as navigating a menu and pressing o
 
 ls -la displays more information on ls. But i do not know what the information is presenting as of yet.
 
+The difference between nano and gedit/featherpad is that nano uses CLI whilst the latter uses GUI to edit text. As this is the case, i will not be able to edit the text using gedit if i only have a remote terminal prompt.
+
