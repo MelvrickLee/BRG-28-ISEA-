@@ -38,3 +38,19 @@ ls -la displays more information on ls. But i do not know what the information i
 
 The difference between nano and gedit/featherpad is that nano uses CLI whilst the latter uses GUI to edit text. As this is the case, i will not be able to edit the text using gedit if i only have a remote terminal prompt.
 
+cp copies the file whilst mv renames the file
+
+after experimenting, i believe that ls shows me a simplified directory whilst ls -lah shows me when the file was last updated/accessed
+
+
+
+uname shows the system information, along with the os version and when it was last updated. lsb\_release looks for lsb\_module and displays the current OS information like version name, current version number and the distributor
+
+
+
+ls -alt seems to display when the file was last altered. hostnamectl displays system information that is easily readable to humans.
+
+
+
+
+
