@@ -98,7 +98,7 @@ installing from source code is the most secure and reliable method as the user d
 
 
 
-\## added @ 9/11 : 1519 
+\## added @ 9/11 : 1519
 TCO
 
 
@@ -153,9 +153,9 @@ MFC-J3940DW Inkjet Printer ($718):
 
 Prints up to A3
 
-Inkjet printer 
+Inkjet printer
 
-Have scan and fax 
+Have scan and fax
 
 
 
@@ -239,7 +239,7 @@ Power cost (in order)
 
 
 
-Paper cost: 
+Paper cost:
 
 Total paper use = 34250 = 68.5 REAMS
 
@@ -285,11 +285,9 @@ Apart from TCO, the printer’s capability, compatibility and upfront cost also 
 
 
 
-For a large workgroup, the ideal printer would have a high PPM count and high sheet capacity as we want to reduce the time wasted on waiting for a printer to finish it’s task, or time used to refill the paper tray.
+For a large workgroup, the ideal printer would have a high PPM count, high sheet capacity and good reliability as we want to reduce the time wasted on waiting for a printer to finish it’s task, time used to refill the paper tray and resources spent/hours wasted on repairs
 
 
 
-Assuming that the chosen printers don’t break down, the TCO gap between all of them will remain the same. However, the only time the TCO will the same is if one printer keeps breaking down and require maintenance/repairs. 
-
-
+Assuming that the chosen printers don’t break down, the TCO gap between all of them will remain the same. However, the only time the TCO will the same is if one printer keeps breaking down and require maintenance/repairs.
 
