@@ -74,7 +74,9 @@ less displays the file in a new command window that can be returned with q. cat 
 
 i think the file is 181 bytes
 
-as the directory has changed, it might have a different output. but the command  less /etc/apt/sources.list.d/ubuntu.sources displays the digital certificate of repositories (who signed them and the uri from where its from). however, it doesnt seem to include apps downloaded from outside the app store.
+
+
+as the directory has changed, it might have a different output. but the command  less /etc/apt/sources.list.d/ubuntu.sources displays the digital certificate of repositories installed (who signed them and the uri from where its from).
 
 
 
@@ -98,8 +100,32 @@ installing from source code is the most secure and reliable method as the user d
 
 
 
+\## added @ 9/11 : 1557
+
+session 1b
+
+
+
+Linux Services:
+
+
+
+it seems like http://127.0.0.1 is the default address for everyone despite everyone having a different IP/MAC address
+
+
+
+
+
+
+
 \## added @ 9/11 : 1519
-TCO
+
+session 2a
+
+
+
+
+TCO:
 
 
 
@@ -290,4 +316,66 @@ For a large workgroup, the ideal printer would have a high PPM count, high sheet
 
 
 Assuming that the chosen printers don’t break down, the TCO gap between all of them will remain the same. However, the only time the TCO will the same is if one printer keeps breaking down and require maintenance/repairs.
+
+
+
+
+
+\# added @ 9/11 : 1528
+
+session 2b
+
+
+
+AWS:
+
+
+
+As i do not have a credit card, i cannot sign up for AWS, so i will begin from launching apache from the virtual machine and using that as my server
+
+
+
+
+
+BASH:
+
+
+
+
+
+mkdir was used to make a new directory.
+
+
+
+cat command can be used to view file contents without opening a GUI (prints content into CLI). nano can also be used (allows for editing content as well)
+
+
+
+cp is copy the contents of a file into a new file, and save it under a new name. mv renames the file (does not create a new file)
+
+
+
+chmod tells the system to change the file permission/type. we didn't use +x, but upon research, 777 gives the file read/write permissions for all users. +x makes the file into an executable usable for specified users if the user group is specified, else it gives it to everyone.
+
+
+
+shebang is probably used at the beginning of script to indicate a bash script
+
+
+
+my modifying the echo command, i can change the contents of the message. if its to print a message that has variable output, than using a $ infront of the variable. this indicates to the program to print the value and not the name of the variable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
