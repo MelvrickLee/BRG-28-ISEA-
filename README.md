@@ -96,3 +96,200 @@ downloading from a repository is the easiest for the user, as installation is ex
 
 installing from source code is the most secure and reliable method as the user does not need internet connection to download anything, and the user can verify what the code does before installing (assuming they did read the code). however, it is the most cumbersome method as it requires one to have the source code, and ensure the code compiles properly. the installed app also does not automatically update unlike in SAAS and downloading from repository. thus the the user needs to undergo the same process with the updated source code to make any updates.
 
+
+
+\## added @ 9/11 : 1519 
+TCO
+
+
+
+Company:
+
+
+
+Assuming company “A” uses paper prints for supporting documents in business meetings and meeting notes. Assumed 140 pages are printed a week. No scanning of documents will be done. The printer is expected to be used for a minimum of 5 years and will be left idle from Monday to Friday, 8:00 am to 6:00 pm (50 hours in total). Assume even use of all colours during coloured prints, and black is used 3x more than CMY.
+
+
+
+Consumables used (a year):
+
+6850 sheets of paper (assume all single-sided prints)
+
+2350 hrs left on/powered (940hrs active, 1410 hrs idle)
+
+
+
+Printers:
+
+MFC-J3940DW Inkjet Printer ($718)
+
+HP Color LaserJet Pro MFP 3303fdw Printer ($599)
+
+HL-L3240CDW Laser Printer ($368)
+
+HL-L3230CDN Laser Printer ($358)
+
+
+
+
+
+
+
+specs
+
+MFC-J3940DW Inkjet Printer ($718):
+
+3k pages for black ($54/cartridge)
+
+1.5k pages for colour (CMY, $92/pack)
+
+2 black cartridges, 1 colored refill a year
+
+5.5W active, 0.9W idle, 0.03W Off
+
+28IPM prints
+
+500 sheets capacity
+
+Prints up to A3
+
+Inkjet printer 
+
+Have scan and fax 
+
+
+
+HP Color LaserJet Pro MFP 3303fdw Printer ($599)
+
+3.2k pages for black ($144/cartridge)
+
+2.5k pages for colour ($165.40/cartridge)
+
+2 black cartridges refill a year, one coloured refill every other year
+
+416W printing, 7.6W ready, 0.95W idle, 0.05W off
+
+25 PPM
+
+500 sheets capacity
+
+Up to A4 prints
+
+LaserJet Printer
+
+Have scan and fax
+
+
+
+HL-L3240CDW Laser Printer
+
+3k pages, black ($117/catridge)
+
+2.3k Pages, coloured ($138/catridge, CMY)
+
+2 black refills a year, 1 colour refill every 2 years
+
+Don’t need to refill drum ($200, 50k pages refill if needed)
+
+70W printing, 10W idle, 0.04W off
+
+Relatively quiet
+
+Up to A4 prints
+
+250 sheet capacity
+
+26PPM
+
+
+
+HL-L3230CDN Laser Printer
+
+3k pages black ($121/catridge)
+
+2,3k pages, coloured ($143/catridge, CMY)
+
+2 black refills a year, 1 coloured every 2 years
+
+1 refill of drum is needed for 5 years ($221, 18k pages)
+
+75W printing, 8.8W idle, 0.04W off
+
+250 sheet capacity
+
+Up to A4 Prints
+
+18PPM
+
+
+
+
+
+Power cost (in order)
+
+940h printing, 1410h idle/ready(HP), 6410h off
+
+5170, 1269, 192.3 : $1991.38
+
+391040, 1672, 320.5 : $118,027.66
+
+68500, 14100, 256.4 : $24,881.78
+
+70500, 12408, 256.4 : 24,974.27
+
+
+
+Paper cost: 
+
+Total paper use = 34250 = 68.5 REAMS
+
+Assuming company has a contract with PaperOne for 70g paper
+
+100 REAMS at 3.45/REAM = $345
+
+Used = ~$236.33
+
+
+
+TCO (in order):
+
+718 + 1000 + 236.33 + 1991.38 = $3,945.71
+
+599 + 3921 + 118027.66 + 236.33 = $122,783.33
+
+368 + 2412 + 24881.78 + 236.33 = $27,898.11
+
+358 + 24974.27 + 2,497 + 236.33 = $28,065.6
+
+\*this is before adding maintenance/repairs, which can be up to around 10-20% of TCO, as well as accounting for inflation
+
+
+
+Conclusion:
+
+For Company “A”, the HL-L3240CDW Laser Printer is the best printer for them as it has the lowest TCO.
+
+
+
+
+
+
+
+Reflection:
+
+If the printer was for home user that prints 5 pages a day, the best printer (for TCO) changes. However, if I were to choose from the 4 options I gave, it would be the HL-L3230CDN Laser Printer, as it is cheaper to purchase as although it has a higher TCO for a company, it would be significantly lower for a home user as significantly lesser prints is done and the user can unplug the printer from the power outlet when not in use.
+
+
+
+Apart from TCO, the printer’s capability, compatibility and upfront cost also needs to be taken into consideration when choosing. If the company was an arts company that prints artwork, than the MFC-J3940DW Inkjet Printer would have been the better choice as it is an InkJet printer.
+
+
+
+For a large workgroup, the ideal printer would have a high PPM count and high sheet capacity as we want to reduce the time wasted on waiting for a printer to finish it’s task, or time used to refill the paper tray.
+
+
+
+Assuming that the chosen printers don’t break down, the TCO gap between all of them will remain the same. However, the only time the TCO will the same is if one printer keeps breaking down and require maintenance/repairs. 
+
+
+
