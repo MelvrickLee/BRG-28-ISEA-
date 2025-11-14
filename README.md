@@ -114,6 +114,68 @@ it seems like http://127.0.0.1 is the default address for everyone despite every
 
 
 
+upon using nano, i was notified that the file was unwritable. maybe i could use SUDO to override the perms
+
+
+
+the only difference between gedit and nano is gedit opens the file into a text editor, whilst nano prints the text in the CLI
+
+
+
+
+
+nmap seem to show me that port 80 is open, using the tcp protocol and running http service.
+
+
+
+after removing apache2, the entered ip address in nmap does not show the network protocol, network application protocol or service (does not show http, tcp and the port that is open)
+
+
+
+the change is probably because the targeted ip is no longer expecting any network request/connection as its no longer a server. 
+
+
+
+sudo is needed as changing firewall settings needs admin permissions
+
+
+
+after enabling a firewall, i was unable to scan the computer ports, or even ping it.
+
+
+
+
+
+after adding the firewall rule, i was able to ping the computer. however on the the nmap output, instead of telling me the other 999 ports are closed, it says that they are filtered. it also says that they is no response from them instead of being refused connection (this is under the "not shown" section.
+
+
+
+upon entering the code, nothing seems to happen and the terminal breaks (no response, prompts or anything). my best guess is because there is a user logged in already, or there are no user login information the system can use. 
+
+
+
+upon further investigation, this might have something to do with the firewall, and i was able to have remote access to the console, but i needed the password for the default user (asked me for password for one user only, which is the default).
+
+
+
+if ssh uses a specific port, i can selectively open a port for it by adding a rule to the firewall
+
+
+
+
+
+in the /etc/passwd directory, it looks like a list of services, protocols, users or folders, with their directory and if they need login information to be accessed
+
+
+
+the new account was added, and the default address/number is the previous account + 1. also seems like the information was stored in the /home folder
+
+
+
+
+
+
+
 
 
 
@@ -121,6 +183,7 @@ it seems like http://127.0.0.1 is the default address for everyone despite every
 \## added @ 9/11 : 1519
 
 session 2a
+
 
 
 
@@ -364,18 +427,4 @@ shebang is probably used at the beginning of script to indicate a bash script
 
 
 my modifying the echo command, i can change the contents of the message. if its to print a message that has variable output, than using a $ infront of the variable. this indicates to the program to print the value and not the name of the variable
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
