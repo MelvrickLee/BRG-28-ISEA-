@@ -208,7 +208,10 @@ after changing owner
 
 Searching Filesystems:
 
+for this lab, ill be using findme.txt
 
+
+*file location
 
 Session 2 - AM
 
