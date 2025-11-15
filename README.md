@@ -192,11 +192,14 @@ changing ownership of file (from Vboxuser > test)
 new account (test)
 
 <img width="1275" height="870" alt="NewUser" src="https://github.com/user-attachments/assets/fef5fb34-5e97-4523-ac86-3fcec73a1a7f" />
-![Uploading image.png…]()
+
 <br/>
 <br/>
 before changing owner
+
 <img width="808" height="574" alt="permissions" src="https://github.com/user-attachments/assets/304021df-ebf4-4ab7-a047-2f8478f0048c" />
+<br/>
+<br/>
 
 after changing owner
 
@@ -209,11 +212,42 @@ after changing owner
 Searching Filesystems:
 
 for this lab, ill be using findme.txt
+<img width="813" height="576" alt="findmeFile" src="https://github.com/user-attachments/assets/dd0506b6-ce99-457d-a05d-ac4e2cb70b62" />
 
 
 *file location
+<br/>
+<br/>
+
+the contents of the file
+<img width="815" height="571" alt="findmeContent" src="https://github.com/user-attachments/assets/2c9a3c7b-04b5-4889-9999-4027ae14d027" />
+<br/>
+<br/>
+
+using find from home directory
+<img width="814" height="577" alt="findOutput" src="https://github.com/user-attachments/assets/5d080a2b-3a81-41ea-b707-068c4ed5585d" />
+
+*if searching specifically for this file, name must include name + extension. 
+**searching just for extension will show all files with said extension
+<br/>
+<br/>
+
+using grep
+
+<img width="817" height="588" alt="grepOutput" src="https://github.com/user-attachments/assets/0e07255b-1caa-4f46-8861-594149db47af" />
+
+*grep prints the line where the search word is found, but highlights the search word
+<br/>
+<br/>
+
+##########################################################################
+<br/>
+<br/>
 
 Session 2 - AM
+<br/>
+<br/>
+##########################################################################
 
 
 
