@@ -19,7 +19,7 @@ As Git was not covered, I used GitHub App to clone the repository onto my local 
 
 This screenshot shows the folder of the local repository in windows file explorer
 *note that ReadmeBackup.md was added in between the screenshots
-
+<br/>
 
 ##########################################################################
 
@@ -31,11 +31,11 @@ I proceeded with unattended guest installation with default settings.
 The user name is VBoxUser
 <img width="1279" height="879" alt="loginLinux" src="https://github.com/user-attachments/assets/76388e3a-f7ef-45ad-99d0-f20a504a65f2" />
 *Login Page
-
+<br/>
 
 <img width="1279" height="882" alt="homepage" src="https://github.com/user-attachments/assets/fab65485-db8e-4a9c-9683-06bf49407184" />
 *Homepage
-
+<br/>
 ##########################################################################
 
 Familiarity with Ubuntu Linux:
@@ -48,11 +48,18 @@ ls shows me all the files that are in my current directory i am working with
 <img width="808" height="576" alt="ls" src="https://github.com/user-attachments/assets/7b895323-1557-4657-a7a2-c802f33de731" />
 
 *CLI view
+<br/>
 
 <img width="571" height="493" alt="lsFiles" src="https://github.com/user-attachments/assets/4551c357-3a83-4408-bcdb-edd778b7cc17" />
 
 
 *GUI view (files explorer)
+<br/>
+
+cd changes my working directory to another folder in the current directory i am on. if i want to work on Documents instead of home, i would use cd Document (note it is case sensitive)
+
+
+
 
 
 
