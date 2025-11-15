@@ -24,6 +24,8 @@ For the virtual machine application, I chose VirtualBox
 I also downloaded the ubuntu ISO file
 I proceeded with unattended guest installation with default settings. 
 The user name is VBoxUser
+<img width="1279" height="879" alt="loginLinux" src="https://github.com/user-attachments/assets/76388e3a-f7ef-45ad-99d0-f20a504a65f2" />
+
 
 
 
