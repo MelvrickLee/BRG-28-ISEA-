@@ -2,7 +2,7 @@ This document contains the screenshot and output of all lab activities
 
 
 
-Session 1 - AM
+Session 1a - AM
 
 
 ##########################################################################
@@ -106,21 +106,14 @@ touch creates an empty file inside the working directory. i can define the name 
 <br/>
 <br/>
 
+Exploring Man (or linux console manual)
+<img width="920" height="572" alt="man" src="https://github.com/user-attachments/assets/6a95cdf3-6ec2-4b4c-8e19-b1e864c50749" />
 
+*1st page of manual, too many pages in total to document
+<br/>
+<br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-Session 1 - PM
+Session 1b - PM
 
 
 
