@@ -163,11 +163,16 @@ after command
 
 checking service status using systemctl status
 <img width="810" height="575" alt="systemctl" src="https://github.com/user-attachments/assets/0738aafa-496a-4322-8fb1-00c1f1d3fdb5" />
+
+*only the 1st page as it is too long to document it all
 <br/> 
 <br/> 
 
 
 Linux Permissions:
+
+output for ls -l 
+
 
 
 Session 2 - AM
