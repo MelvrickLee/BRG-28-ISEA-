@@ -142,7 +142,21 @@ page can be navigated using arrow keys
 <br/>
 <br/>
 
+to test start/stopping services with CLI, i will be using the UFW service as an example
 
+before command
+
+
+*highlighted is UFW
+<br/>
+<br/>
+
+after command
+
+
+*note that total active services went down and UFW cannot be found
+<br/>
+<br/> 
 
 
 Session 2 - AM
