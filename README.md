@@ -180,13 +180,28 @@ output for ls -l
 <br/>
 
 changing permissions (changing testfile to rw -r -r)
-<img width="808" height="574" alt="permissions" src="https://github.com/user-attachments/assets/32fe5594-a26e-4f85-a087-0f6326356803" />
+<img width="815" height="574" alt="chmod" src="https://github.com/user-attachments/assets/471cc3bd-2133-4120-98c6-05a1762e10dd" />
+
 
 *highlighted is testfile
 <br/>
 <br/>
 
-changing ownership of file (moving testfile to Documents)
+changing ownership of file (from Vboxuser > test)
+
+new account (test)
+
+<img width="1275" height="870" alt="NewUser" src="https://github.com/user-attachments/assets/fef5fb34-5e97-4523-ac86-3fcec73a1a7f" />
+![Uploading image.png…]()
+<br/>
+<br/>
+before changing owner
+<img width="808" height="574" alt="permissions" src="https://github.com/user-attachments/assets/304021df-ebf4-4ab7-a047-2f8478f0048c" />
+
+after changing owner
+
+<img width="817" height="575" alt="chown" src="https://github.com/user-attachments/assets/240b1e13-d40c-4dd6-b527-4d5e86992c33" />
+*note that the testfile (highlighted) changed from vboxuser to test in the 1st row of names
 
 
 
