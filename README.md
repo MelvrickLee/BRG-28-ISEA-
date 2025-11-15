@@ -77,6 +77,12 @@ cd changes my working directory to another folder in the current directory i am 
 <img width="572" height="492" alt="documents" src="https://github.com/user-attachments/assets/ac118411-672f-4148-8709-37ebecd02097" />
 
 *contents of "Documents"
+<br/>
+<br/>
+
+mkdir makes a folder inside the working directory i am in. I can also specify the file name. Following from the cd command, I will create a folder named "ISEA" and change directory to there
+
+
 
 
 
