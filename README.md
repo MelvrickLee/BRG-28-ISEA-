@@ -5,7 +5,7 @@ This document contains the screenshot and output of all lab activities
 Session 1 - AM
 
 
-
+##########################################################################
 Signup for GitHub Account
 
 Creating an account + repository:
@@ -20,7 +20,7 @@ This screenshot shows the folder of the local repository in windows file explore
 *note that ReadmeBackup.md was added in between the screenshots
 
 
-
+##########################################################################
 Obtaining Linux on My PC
 
 For the virtual machine application, I chose VirtualBox
@@ -34,10 +34,12 @@ The user name is VBoxUser
 <img width="1279" height="882" alt="homepage" src="https://github.com/user-attachments/assets/fab65485-db8e-4a9c-9683-06bf49407184" />
 *Homepage
 
-
+##########################################################################
 Familiarity with Ubuntu Linux
 
 pwd shows me the current directory i am in
+<img width="807" height="576" alt="pwd" src="https://github.com/user-attachments/assets/9c46306d-4725-492d-b309-3fab5a54d162" />
+
 
 
 
