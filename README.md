@@ -20,6 +20,7 @@ As Git was not covered, I used GitHub App to clone the repository onto my local 
 <img width="585" height="155" alt="localRepo" src="https://github.com/user-attachments/assets/feaa7830-2d9c-4f18-9a6f-50b3bda0fefc" />
 
 This screenshot shows the folder of the local repository in windows file explorer
+
 *note that ReadmeBackup.md was added in between the screenshots
 <br/>
 <br/>
@@ -27,6 +28,8 @@ This screenshot shows the folder of the local repository in windows file explore
 ##########################################################################
 
 Obtaining Linux on My PC:
+<br/>
+<br/>
 
 For the virtual machine application, I chose VirtualBox
 I also downloaded the ubuntu ISO file
@@ -35,9 +38,12 @@ The user name is VBoxUser
 <img width="1279" height="879" alt="loginLinux" src="https://github.com/user-attachments/assets/76388e3a-f7ef-45ad-99d0-f20a504a65f2" />
 *Login Page
 <br/>
+<br/>
 
 <img width="1279" height="882" alt="homepage" src="https://github.com/user-attachments/assets/fab65485-db8e-4a9c-9683-06bf49407184" />
 *Homepage
+<br/>
+<br/>
 <br/>
 ##########################################################################
 
@@ -45,25 +51,31 @@ Familiarity with Ubuntu Linux:
 
 pwd shows me the current directory i am in
 <img width="807" height="576" alt="pwd" src="https://github.com/user-attachments/assets/9c46306d-4725-492d-b309-3fab5a54d162" />
+<br/>
+<br/>
 
 ls shows me all the files that are in my current directory i am working with
-
 <img width="808" height="576" alt="ls" src="https://github.com/user-attachments/assets/7b895323-1557-4657-a7a2-c802f33de731" />
 
 *CLI view
 <br/>
+<br/>
 
 <img width="571" height="493" alt="lsFiles" src="https://github.com/user-attachments/assets/4551c357-3a83-4408-bcdb-edd778b7cc17" />
 
-
 *GUI view (files explorer)
+<br/>
 <br/>
 
 cd changes my working directory to another folder in the current directory i am on. if i want to work on Documents instead of home, i would use cd Document (note it is case sensitive)
 <img width="813" height="571" alt="cd" src="https://github.com/user-attachments/assets/45c07bab-842b-49fe-8432-53182a3273ec" />
+
 *CLI view
 <br/>
+<br/>
+
 <img width="572" height="492" alt="documents" src="https://github.com/user-attachments/assets/ac118411-672f-4148-8709-37ebecd02097" />
+
 *contents of "Documents"
 
 
