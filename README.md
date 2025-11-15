@@ -113,7 +113,21 @@ Exploring Man (or linux console manual)
 <br/>
 <br/>
 
+##########################################################################
+<br/>
+<br/>
+
 Session 1b - PM
+<br/>
+<br/>
+
+##########################################################################
+
+Linux Services:
+<br/>
+<br/>
+
+"systemctl list-units --type=service" lists all services installed
 
 
 
