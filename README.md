@@ -43,6 +43,12 @@ Familiarity with Ubuntu Linux:
 pwd shows me the current directory i am in
 <img width="807" height="576" alt="pwd" src="https://github.com/user-attachments/assets/9c46306d-4725-492d-b309-3fab5a54d162" />
 
+ls shows me all the files that are in my current directory i am working with
+
+*CLI view
+
+*GUI view (files explorer)
+
 
 
 
