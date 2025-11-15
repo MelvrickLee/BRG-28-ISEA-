@@ -132,7 +132,7 @@ after removing apache2, the entered ip address in nmap does not show the network
 
 
 
-the change is probably because the targeted ip is no longer expecting any network request/connection as its no longer a server. 
+the change is probably because the targeted ip is no longer expecting any network request/connection as its no longer a server.
 
 
 
@@ -150,7 +150,7 @@ after adding the firewall rule, i was able to ping the computer. however on the 
 
 
 
-upon entering the code, nothing seems to happen and the terminal breaks (no response, prompts or anything). my best guess is because there is a user logged in already, or there are no user login information the system can use. 
+upon entering the code, nothing seems to happen and the terminal breaks (no response, prompts or anything). my best guess is because there is a user logged in already, or there are no user login information the system can use.
 
 
 
@@ -402,7 +402,7 @@ As i do not have a credit card, i cannot sign up for AWS, so i will begin from l
 
 BASH:
 
-
+test
 
 
 
