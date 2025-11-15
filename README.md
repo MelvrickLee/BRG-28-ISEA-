@@ -145,6 +145,7 @@ page can be navigated using arrow keys
 to test start/stopping services with CLI, i will be using the UFW service as an example
 
 before command
+<img width="1084" height="572" alt="ufwb4" src="https://github.com/user-attachments/assets/4ec233c3-0a94-4e12-b58f-79ef7009e9c6" />
 
 
 *highlighted is UFW
@@ -152,9 +153,11 @@ before command
 <br/>
 
 after command
+<img width="1084" height="574" alt="ufwAfter" src="https://github.com/user-attachments/assets/e72ac493-9ef7-491a-a6b4-18216d29203a" />
 
 
-*note that total active services went down and UFW cannot be found
+
+*note that number of total active services went down and UFW cannot be found
 <br/>
 <br/> 
 
