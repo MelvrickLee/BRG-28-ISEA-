@@ -33,7 +33,7 @@ Obtaining Linux on My PC:
 
 For the virtual machine application, I chose VirtualBox
 I also downloaded the ubuntu ISO file
-I proceeded with unattended guest installation with default settings. 
+I proceeded with unattended guest installation with default settings. I also allocated more RAM and video Memory in settings 
 The user name is VBoxUser
 <img width="1279" height="879" alt="loginLinux" src="https://github.com/user-attachments/assets/76388e3a-f7ef-45ad-99d0-f20a504a65f2" />
 *Login Page
@@ -93,7 +93,7 @@ mkdir makes a folder inside the working directory i am in. I can also specify th
 <br/>
 <br/>
 
-
+touch creates an empty file inside the working directory. i can define the name and file extension.
 
 
 
