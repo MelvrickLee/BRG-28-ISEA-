@@ -45,7 +45,12 @@ pwd shows me the current directory i am in
 
 ls shows me all the files that are in my current directory i am working with
 
+<img width="808" height="576" alt="ls" src="https://github.com/user-attachments/assets/7b895323-1557-4657-a7a2-c802f33de731" />
+
 *CLI view
+
+<img width="571" height="493" alt="lsFiles" src="https://github.com/user-attachments/assets/4551c357-3a83-4408-bcdb-edd778b7cc17" />
+
 
 *GUI view (files explorer)
 
