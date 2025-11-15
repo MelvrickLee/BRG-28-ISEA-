@@ -180,7 +180,13 @@ output for ls -l
 <br/>
 
 changing permissions (changing testfile to rw -r -r)
+<img width="808" height="574" alt="permissions" src="https://github.com/user-attachments/assets/32fe5594-a26e-4f85-a087-0f6326356803" />
 
+*highlighted is testfile
+<br/>
+<br/>
+
+changing ownership of file (moving testfile to Documents)
 
 
 
