@@ -35,6 +35,12 @@ The user name is VBoxUser
 *Homepage
 
 
+Familiarity with Ubuntu Linux
+
+pwd shows me the current directory i am in
+
+
+
 
 
 
