@@ -128,6 +128,20 @@ Linux Services:
 <br/>
 
 "systemctl list-units --type=service" lists all services installed
+<img width="1202" height="576" alt="services" src="https://github.com/user-attachments/assets/d4874603-e3c2-402f-8fba-96fb345d6322" />
+
+*1st page of services
+<br/>
+<br/>
+
+<img width="1203" height="577" alt="servicesEnd" src="https://github.com/user-attachments/assets/f2261781-8f9b-4f55-a44f-82c7788d2447" />
+
+*last page of services
+
+page can be navigated using arrow keys
+<br/>
+<br/>
+
 
 
 
