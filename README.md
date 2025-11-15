@@ -20,6 +20,7 @@ This screenshot shows the folder of the local repository in windows file explore
 *note that ReadmeBackup.md was added in between the screenshots
 
 
+
 Obtaining Linux on My PC
 
 For the virtual machine application, I chose VirtualBox
