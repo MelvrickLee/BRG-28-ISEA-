@@ -201,7 +201,12 @@ before changing owner
 after changing owner
 
 <img width="817" height="575" alt="chown" src="https://github.com/user-attachments/assets/240b1e13-d40c-4dd6-b527-4d5e86992c33" />
+
 *note that the testfile (highlighted) changed from vboxuser to test in the 1st row of names
+<br/>
+<br/>
+
+Searching Filesystems:
 
 
 
