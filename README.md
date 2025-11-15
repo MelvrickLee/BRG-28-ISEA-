@@ -176,6 +176,11 @@ output for ls -l
 <img width="808" height="574" alt="permissions" src="https://github.com/user-attachments/assets/a614eb84-7ec7-482e-8ba6-9bd9ff2de027" />
 
 *r means read, w means write and x means execute. the 1st column is for onwer, 2nd for group and 3rd for others. d denotes that the file is a directory
+<br/>
+<br/>
+
+changing permissions (changing testfile to rw -r -r)
+
 
 
 
