@@ -94,6 +94,19 @@ mkdir makes a folder inside the working directory i am in. I can also specify th
 <br/>
 
 touch creates an empty file inside the working directory. i can define the name and file extension.
+<img width="814" height="576" alt="touch" src="https://github.com/user-attachments/assets/85f187db-7592-4363-9e4d-e49003e80147" />
+
+*CLI View
+<br/>
+<br/>
+
+<img width="575" height="492" alt="touchGUI" src="https://github.com/user-attachments/assets/3ec1dc0f-0df0-43b2-8d55-33a3091d3e26" />
+
+*Files view
+<br/>
+<br/>
+
+
 
 
 
