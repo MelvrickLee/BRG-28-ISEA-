@@ -161,6 +161,10 @@ after command
 <br/>
 <br/> 
 
+checking service status using systemctl status
+
+
+
 
 Session 2 - AM
 
