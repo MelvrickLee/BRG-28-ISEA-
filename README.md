@@ -6,6 +6,7 @@ Session 1 - AM
 
 
 ##########################################################################
+
 Signup for GitHub Account
 
 Creating an account + repository:
@@ -21,6 +22,7 @@ This screenshot shows the folder of the local repository in windows file explore
 
 
 ##########################################################################
+
 Obtaining Linux on My PC
 
 For the virtual machine application, I chose VirtualBox
@@ -35,6 +37,7 @@ The user name is VBoxUser
 *Homepage
 
 ##########################################################################
+
 Familiarity with Ubuntu Linux
 
 pwd shows me the current directory i am in
