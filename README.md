@@ -162,8 +162,12 @@ after command
 <br/> 
 
 checking service status using systemctl status
+<img width="810" height="575" alt="systemctl" src="https://github.com/user-attachments/assets/0738aafa-496a-4322-8fb1-00c1f1d3fdb5" />
+<br/> 
+<br/> 
 
 
+Linux Permissions:
 
 
 Session 2 - AM
