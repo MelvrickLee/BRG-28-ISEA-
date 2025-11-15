@@ -8,7 +8,9 @@ Session 1 - AM
 
 Signup for GitHub Account
 <img width="1919" height="942" alt="github" src="https://github.com/user-attachments/assets/2a5b4362-f783-40ab-9841-231123065a21" />
-since I had prior exxperience with GitHub, I had no trouble creating a repository
+since I had prior experience with GitHub, I had no trouble creating a repository
+
+As Git was not covered, I used GitHub to clone the repository onto my local machine
 
 
 
