@@ -7,7 +7,7 @@ Session 1 - AM
 
 ##########################################################################
 
-Signup for GitHub Account
+Signup for GitHub Account:
 
 Creating an account + repository:
 <img width="1919" height="942" alt="github" src="https://github.com/user-attachments/assets/2a5b4362-f783-40ab-9841-231123065a21" />
@@ -23,7 +23,7 @@ This screenshot shows the folder of the local repository in windows file explore
 
 ##########################################################################
 
-Obtaining Linux on My PC
+Obtaining Linux on My PC:
 
 For the virtual machine application, I chose VirtualBox
 I also downloaded the ubuntu ISO file
@@ -38,7 +38,7 @@ The user name is VBoxUser
 
 ##########################################################################
 
-Familiarity with Ubuntu Linux
+Familiarity with Ubuntu Linux:
 
 pwd shows me the current directory i am in
 <img width="807" height="576" alt="pwd" src="https://github.com/user-attachments/assets/9c46306d-4725-492d-b309-3fab5a54d162" />
