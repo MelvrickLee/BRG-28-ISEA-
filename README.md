@@ -424,19 +424,25 @@ when trying to ping after giving permission to port 80
 
 SSH
 
-for this lab, I will be executing the SSH from a cloned VM. I have created a new user "test" in the main VM and allowed connection to port 22 in the firewall
+*for this section, I will be executing the SSH from a cloned VM. I have created a new user "test" in the main VM and allowed connection to port 22 in the firewall
 <br/>
 <br/>
 
 when logged in via ssh
 
+<img width="813" height="579" alt="sshLogin" src="https://github.com/user-attachments/assets/2fc757b7-15c1-4e97-a5b6-bcafff0ddb3a" />
 
 <br/>
 <br/>
 
 after updating
+
+<img width="977" height="601" alt="sshUpdate" src="https://github.com/user-attachments/assets/3a6bffad-3acc-4394-a0ef-dda3bba810fd" />
+
 <br/>
 <br/>
+
+BASH Scripting
 
 
 
