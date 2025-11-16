@@ -424,7 +424,7 @@ when trying to ping after giving permission to port 80
 
 SSH
 
-*for this section, I will be executing the SSH from a cloned VM. I have created a new user "test" in the main VM and allowed connection to port 22 in the firewall
+*for this section of the lab, I will be executing the SSH from a cloned VM. I have created a new user "test" in the main VM and allowed connection to port 22 in the firewall
 <br/>
 <br/>
 
@@ -442,7 +442,7 @@ after updating
 <br/>
 <br/>
 
-BASH Scripting
+BASH Scripting:
 
 *all scripts will be saved inside ISEA file in documents
 
@@ -525,6 +525,7 @@ crontab file:
 ##########################################################################
 <br/>
 <br/>
+
 Session 3 - AM
 <br/>
 <br/>
@@ -533,8 +534,35 @@ Session 3 - AM
 
 <br/>
 As i do not have a credit card, there is nothing i can show for lab 1 and 2 (both are reliant on AWS).
+<br/>
+<br/>
 
-
+##########################################################################
+<br/>
+<br/>
 
 Session 3 - PM
+<br/>
+<br/>
 
+##########################################################################
+
+Scripting Linux Server Functions:
+
+*source directory for backups would be ISEA, and the target directory would be ISEA_BP
+
+script
+
+
+
+<br/>
+<br/>
+
+before backup
+
+
+
+<br/>
+<br/>
+
+after backup
