@@ -448,26 +448,37 @@ BASH Scripting
 
 creating bash script
 
+<img width="1204" height="581" alt="createbash" src="https://github.com/user-attachments/assets/08d3c6a6-416e-45cf-83b8-174a425ba3a7" />
+<br/>
+<br/>
+
 converting file into executable
+
+<img width="1202" height="571" alt="bashExec" src="https://github.com/user-attachments/assets/d1183e24-3855-46aa-a438-2ddba402bee9" />
+<br/>
+<br/>
 
 echo message
 
-
+<img width="816" height="582" alt="bashecho" src="https://github.com/user-attachments/assets/9719f4e3-d377-4e36-a92e-20d4319ce99b" />
 
 *code
 <br/>
 <br/>
 
+<img width="1203" height="409" alt="bashechoexec" src="https://github.com/user-attachments/assets/468a7173-54a1-4d14-b4c8-8ce5596efdc0" />
 
 *output
 
 if else
 
+<img width="816" height="582" alt="bashif" src="https://github.com/user-attachments/assets/432a1004-9fff-4a63-8838-2bb5d35dab4a" />
 
 *code
 <br/>
 <br/>
 
+<img width="817" height="580" alt="bashifexec" src="https://github.com/user-attachments/assets/6a0a4f24-ffbb-4d59-9cfc-e1ea0377819b" />
 
 *output
 <br/>
@@ -475,11 +486,13 @@ if else
 
 for loop
 
+<img width="817" height="583" alt="bashfor" src="https://github.com/user-attachments/assets/932dc458-f5ae-4d63-8e45-220a40c5d1e7" />
 
 *code
 <br/>
 <br/>
 
+<img width="815" height="580" alt="bash4exec" src="https://github.com/user-attachments/assets/054b26c1-c514-4cc1-ba3b-f25c5b7286b8" />
 
 *output
 <br/>
@@ -487,10 +500,19 @@ for loop
 
 while loop
 
+<img width="818" height="582" alt="bashwhile" src="https://github.com/user-attachments/assets/0f5551f9-b02b-4122-9d97-97752017b2d6" />
 
+*code
+<br/>
+<br/>
 
+<img width="820" height="582" alt="bashwhileExec" src="https://github.com/user-attachments/assets/769e411e-c84c-432e-91cb-b17111c59564" />
 
+*output
+<br/>
+<br/>
 
+for cron
 Session 3 - AM
 
 
