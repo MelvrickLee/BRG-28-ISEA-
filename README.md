@@ -405,9 +405,21 @@ I will start with configuring a firewall (on UFW)
 
 when trying to ping without firewall
 
+<img width="812" height="576" alt="pingoff" src="https://github.com/user-attachments/assets/2de85f41-9a4e-448a-858b-672901ffee7f" />
+<br/>
+<br/>
+
 when trying to ping with firewall
 
+<img width="814" height="577" alt="pingon" src="https://github.com/user-attachments/assets/333511c9-7cf7-4a38-8e86-68fb30bbfd1a" />
+<br/>
+<br/>
+
 when trying to ping after giving permission to port 80
+
+<img width="813" height="579" alt="pingperms" src="https://github.com/user-attachments/assets/5af9e8c3-3e97-4040-8b27-7c697f6391ec" />
+<br/>
+<br/>
 
 
 ssh
