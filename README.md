@@ -519,7 +519,7 @@ crontab file:
 
 <img width="818" height="584" alt="crontab" src="https://github.com/user-attachments/assets/45e14af5-a65b-4a1f-833e-8def80b2624b" />
 
-*in the 1st cron rule/setting, the script will run every 17 mins
+*in the 1st cron rule/setting, the script will run on the 17th min of every hour
 <br/>
 <br/>
 
@@ -584,7 +584,23 @@ after backup
 <br/>
 <br/>
 
-using cron to schedule when does script run (i will run the backup script once every 30 mins)
+using cron to schedule when does script run (i will run the backup script once every 2 mins)
+<br/>
+<br/>
+
+crontab
+
+
+
+<br/>
+<br/>
+
+log
+
+
+
+*log directory is in Documents
+
 <br/>
 <br/>
 
