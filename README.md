@@ -202,7 +202,7 @@ new account (test)
 <br/>
 <br/>
 before changing owner
-
+<br/>
 <img width="808" height="574" alt="permissions" src="https://github.com/user-attachments/assets/304021df-ebf4-4ab7-a047-2f8478f0048c" />
 <br/>
 <br/>
@@ -226,6 +226,7 @@ for this lab, ill be using findme.txt
 <br/>
 
 the contents of the file
+
 <img width="815" height="571" alt="findmeContent" src="https://github.com/user-attachments/assets/2c9a3c7b-04b5-4889-9999-4027ae14d027" />
 <br/>
 <br/>
@@ -533,7 +534,7 @@ Session 3 - AM
 ##########################################################################
 
 <br/>
-As i do not have a credit card, there is nothing i can show for lab 1 and 2 (both are reliant on AWS).
+As i do not have a credit card, there is nothing i can show for both labs in this session (both are reliant on AWS).
 <br/>
 <br/>
 
@@ -553,16 +554,29 @@ Scripting Linux Server Functions:
 
 script
 
+<img width="815" height="584" alt="backup" src="https://github.com/user-attachments/assets/be45425f-d486-4ece-9a68-96b3001de554" />
 
+*file has been moved to a common folder for ease of access
 
 <br/>
 <br/>
 
 before backup
 
-
+<img width="938" height="637" alt="b4backup" src="https://github.com/user-attachments/assets/b99cbdc5-524a-444f-9736-fdc09a62cc86" />
 
 <br/>
 <br/>
 
 after backup
+
+<img width="1016" height="714" alt="afterbackup" src="https://github.com/user-attachments/assets/0e1964b8-919c-4cc9-90d6-b4cb82ca3798" />
+
+<br/>
+<br/>
+
+using cron to schedule when does script run (i will run the backup script once every 30 mins)
+<br/>
+<br/>
+
+
