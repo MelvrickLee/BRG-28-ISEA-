@@ -513,11 +513,26 @@ while loop
 <br/>
 
 for cron
+
+crontab file: 
+
+<img width="818" height="584" alt="crontab" src="https://github.com/user-attachments/assets/45e14af5-a65b-4a1f-833e-8def80b2624b" />
+
+*in the 1st cron rule/setting, the script will run every 17 mins
+<br/>
+<br/>
+
+##########################################################################
+<br/>
+<br/>
 Session 3 - AM
+<br/>
+<br/>
 
+##########################################################################
 
-
-as i do not have a credit card, there is nothing i can show for lab 1 and 2 (both are reliant on AWS).
+<br/>
+As i do not have a credit card, there is nothing i can show for lab 1 and 2 (both are reliant on AWS).
 
 
 
