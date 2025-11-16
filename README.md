@@ -444,6 +444,50 @@ after updating
 
 BASH Scripting
 
+*all scripts will be saved inside ISEA file in documents
+
+creating bash script
+
+converting file into executable
+
+echo message
+
+
+
+*code
+<br/>
+<br/>
+
+
+*output
+
+if else
+
+
+*code
+<br/>
+<br/>
+
+
+*output
+<br/>
+<br/>
+
+for loop
+
+
+*code
+<br/>
+<br/>
+
+
+*output
+<br/>
+<br/>
+
+while loop
+
+
 
 
 
