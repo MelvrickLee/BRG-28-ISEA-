@@ -399,7 +399,11 @@ Session 2b - PM
 
 Cloud Computing:
 
-*As I do not have a credit card, i cannot sign up for AWS, or similar services that require me to enter my credit card information in order to register
+*As I do not have a credit card, i cannot sign up for AWS, or similar services that require me to enter my credit card information in order to register.
+
+I will start with configuring a firewall (on UFW)
+
+
 
 
 
