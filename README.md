@@ -590,25 +590,40 @@ using cron to schedule when does script run (i will run the backup script once e
 
 code change (to produce an output)
 
-
+<img width="971" height="600" alt="codechange" src="https://github.com/user-attachments/assets/db660b5d-506c-4ddd-a485-93d0251d942f" />
 
 <br/>
 <br/>
 
 crontab
 
-
+<img width="1057" height="601" alt="autorun" src="https://github.com/user-attachments/assets/99b70d85-3457-4697-b565-731606941a3a" />
 
 <br/>
 <br/>
 
 log
 
+<img width="704" height="521" alt="cronLog" src="https://github.com/user-attachments/assets/ab99df51-610e-479f-ad4a-57fdf518e28a" />
 
 
 *log directory is in Documents
 
+**log was updated whilst i was taking a screenshot
+
 <br/>
 <br/>
+
+##########################################################################
+<br/>
+<br/>
+
+Session 4a - AM
+<br/>
+<br/>
+
+##########################################################################
+
+Using MySQL:
 
 
