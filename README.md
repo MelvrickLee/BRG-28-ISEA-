@@ -161,10 +161,16 @@ after command
 <br/>
 <br/> 
 
-checking service status using systemctl status
-<img width="810" height="575" alt="systemctl" src="https://github.com/user-attachments/assets/0738aafa-496a-4322-8fb1-00c1f1d3fdb5" />
+checking service status using systemctl status (using UFW as example)
 
-*only the 1st page as it is too long to document it all
+if service is on
+<img width="972" height="576" alt="UfwOn" src="https://github.com/user-attachments/assets/f657cb3a-4866-4d6c-96c4-c67466725b4b" />
+
+<br/> 
+<br/> 
+
+if service is off
+<img width="979" height="583" alt="UfwOff" src="https://github.com/user-attachments/assets/4a663a69-a819-4dec-953c-17fe0dd42155" />
 <br/> 
 <br/> 
 
