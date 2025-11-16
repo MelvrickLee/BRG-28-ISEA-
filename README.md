@@ -244,7 +244,7 @@ using grep
 <br/>
 <br/>
 
-Session 2 - AM
+Session 2a - AM
 <br/>
 <br/>
 ##########################################################################
@@ -381,9 +381,19 @@ For a large workgroup, the ideal printer would have a high PPM count, high sheet
 Assuming that the chosen printers don’t break down, the TCO gap between all of them will remain the same. However, the only time the TCO will the same is if one printer keeps breaking down and require maintenance/repairs.
 
 
+##########################################################################
+<br/>
+<br/>
 
+Session 2b - PM
+<br/>
+<br/>
 
-Session 2 - PM
+##########################################################################
+
+Cloud Computing:
+
+*As I do not have a credit card, i cannot sign up for AWS, or similar services that require me to enter my credit card information in order to register
 
 
 
