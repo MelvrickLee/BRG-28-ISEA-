@@ -403,6 +403,15 @@ Cloud Computing:
 
 I will start with configuring a firewall (on UFW)
 
+when trying to ping without firewall
+
+when trying to ping with firewall
+
+when trying to ping after giving permission to port 80
+
+
+ssh
+
 
 
 
