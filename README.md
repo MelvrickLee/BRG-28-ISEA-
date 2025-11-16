@@ -523,6 +523,15 @@ crontab file:
 <br/>
 <br/>
 
+when i want to run the script, i can use "bash" or 
+"./". chmod simply only remove/add permissions to the file to user groups (default is editing permissions to all user groups)
+
+output
+
+
+<br/>
+<br/>
+
 ##########################################################################
 <br/>
 <br/>
