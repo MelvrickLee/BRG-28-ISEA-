@@ -422,8 +422,21 @@ when trying to ping after giving permission to port 80
 <br/>
 
 
-ssh
+SSH
 
+for this lab, I will be executing the SSH from a cloned VM. I have created a new user "test" in the main VM and allowed connection to port 22 in the firewall
+<br/>
+<br/>
+
+when logged in via ssh
+
+
+<br/>
+<br/>
+
+after updating
+<br/>
+<br/>
 
 
 
