@@ -624,6 +624,94 @@ Session 4a - AM
 
 ##########################################################################
 
-Using MySQL:
+Using MariaDB:
 
+As I do not have an AWS account, remote access to the MariaDB server will be done via ssh.
+
+The goals I have set is to create a user account (and a password for account), create/delete databases, create/delete tables and adding/deleting data to table on one VM (Virtual Machine), and seeing the changes in another VM
+
+
+To install MariaDB:
+
+
+
+<br/>
+<br/>
+
+To setup MariaDB (and root account):
+
+
+
+<br/>
+<br/>
+
+To login to MariaDB:
+
+
+
+*note that root account is needed for 1st time as no user account has been made
+
+<br/>
+<br/>
+
+To create database:
+
+
+
+<br/>
+<br/>
+
+To delete database:
+
+
+
+*note that to delete database, permissions must be given to account, else only root account can delete them
+<br/>
+<br/>
+
+To create table (in database):
+
+Enter database
+
+
+
+<br/>
+<br/>
+
+create table
+
+
+
+<br/>
+<br/>
+
+To delete table:
+
+
+
+<br/>
+<br/>
+
+To add data:
+
+
+
+<br/>
+<br/>
+
+To delete data:
+
+
+
+<br/>
+<br/>
+
+SSH view:
+
+
+
+<br/>
+<br/>
+
+**End of Document**
 
