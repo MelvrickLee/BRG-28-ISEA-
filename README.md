@@ -801,7 +801,9 @@ SSH View
 
 **MariaDB can login remotely without using SSH if configured for it according to my research
 
-***Remote user needs to install MariaDB-client-core before being able to remotely login
+***Remote user needs to install MariaDB-client-core before being able to remotely login if not done via ssh to VM hosting MariaDB
+
+****Port configured for MariaDB must be open in firewall to connect to MariaDB without using ssh. Default port is 3306
 
 <br/>
 <br/>
