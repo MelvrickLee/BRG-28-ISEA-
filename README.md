@@ -633,37 +633,75 @@ The goals I have set is to create a user account (and a password for account), c
 
 To install MariaDB:
 
-
+<img width="816" height="578" alt="installMaria" src="https://github.com/user-attachments/assets/ab57188d-e8a5-49bc-9fbf-861ad9f24111" />
 
 <br/>
 <br/>
 
 To setup MariaDB (and root account):
 
+<img width="817" height="580" alt="setupMaria" src="https://github.com/user-attachments/assets/1b07d2df-b408-4563-bb90-f3410128a7f5" />
 
+*root accoount password can be changed in this step.
 
 <br/>
 <br/>
 
 To login to MariaDB:
 
+<img width="815" height="578" alt="loginMaria" src="https://github.com/user-attachments/assets/f1999a5d-09e4-4b21-ac37-c5a54ecf86b0" />
 
+*note that root account is needed for 1st time as no user account has been made (will login as root/admin)
 
-*note that root account is needed for 1st time as no user account has been made
+** replace "root" with username if account has been made already
+
+*** sudo can be used to bypass password requirement
 
 <br/>
 <br/>
+
+To create a new user (username = test2, password = a):
+
+<img width="818" height="586" alt="createUserMaria" src="https://github.com/user-attachments/assets/432f15e8-ac1c-4580-8199-09d7b75e9178" />
+
+*you can replace "test2" with desired username, and "a" with desired password
+
+<br/>
+<br/>
+
+To delete user (test2):
+
+<img width="816" height="579" alt="userlistMaria" src="https://github.com/user-attachments/assets/7bcdc3a9-4c8e-42b3-89b0-fc3d0687ba26" />
+
+*user list before deleting
+
+<img width="818" height="583" alt="deleteUserMaria" src="https://github.com/user-attachments/assets/8add029e-e70b-4aac-9b15-f1797cd766e4" />
+
+*user list after deleting
+
+<br/>
+<br/>
+
 
 To create database:
 
+before creating
 
+<img width="814" height="579" alt="showdatabaseMaria" src="https://github.com/user-attachments/assets/ae86615f-9561-4437-8e19-07e7fa845f23" />
 
 <br/>
 <br/>
 
-To delete database:
+after creating
 
+<img width="816" height="577" alt="createDatabaseMaria" src="https://github.com/user-attachments/assets/374bf367-9308-4528-919d-4148f75737e0" />
 
+<br/>
+<br/>
+
+To delete dabase (deleting ISEA_Test2):
+
+<img width="815" height="581" alt="deleteDatabaseMaria" src="https://github.com/user-attachments/assets/3e80e527-3889-44cd-9610-7758481e209a" />
 
 *note that to delete database, permissions must be given to account, else only root account can delete them
 <br/>
@@ -671,44 +709,117 @@ To delete database:
 
 To create table (in database):
 
-Enter database
+Entering a database (similar to cd in linux console)
 
+<img width="816" height="583" alt="enteringDtabaseMaria" src="https://github.com/user-attachments/assets/af85cd83-1aa7-49d7-8419-fb48583a0de4" />
 
+*this step is not needed to create a table if you define which database you want to create the table in
 
 <br/>
 <br/>
 
-create table
+create table (auto index 1st coloumn, text for 2nd coloumn)
 
+<img width="815" height="584" alt="createTableMaria" src="https://github.com/user-attachments/assets/28558d7b-111b-4a6c-9f80-c441140a16ff" />
 
+<br/>
+<br/>
+
+table view
+
+<img width="817" height="581" alt="showTablesMaria" src="https://github.com/user-attachments/assets/505940b6-5ad8-4552-b07c-f532bbb80f5e" />
 
 <br/>
 <br/>
 
 To delete table:
 
+<img width="817" height="579" alt="deleteTableMaria" src="https://github.com/user-attachments/assets/149747b9-1570-4806-8748-db6e00c65893" />
 
 
 <br/>
 <br/>
 
-To add data:
+To add data (adding a famous line from a sci-fi movie :D ):
 
+<img width="817" height="577" alt="addingData" src="https://github.com/user-attachments/assets/45aa5114-f22a-4187-bc26-3bc895fa2b79" />
 
+<img width="820" height="585" alt="delDataTestMaria" src="https://github.com/user-attachments/assets/27a785af-0a9b-444e-b107-8f0a779537fa" />
 
-<br/>
-<br/>
-
-To delete data:
-
-
+*data entry must match what data type is expected when creating the table
 
 <br/>
 <br/>
 
-SSH view:
+To delete data (removing data with id 2):
 
+<img width="819" height="581" alt="deletedataMaria" src="https://github.com/user-attachments/assets/bab4f1cf-14b1-4c84-8693-a7e267564dc9" />
 
+*note that drop command removes the data entry with specified data. unique data to be used unless you want to delete multiple data points
+
+<br/>
+<br/>
+
+Granting Permissions:
+
+*its important to mantain data security and integrity
+
+<img width="814" height="579" alt="permissionsMaria" src="https://github.com/user-attachments/assets/69e22f2c-d18b-4d01-8cc1-ddd9fc4823a2" />
+
+<br/>
+<br/>
+
+new perms (i have granted perms to mydatabase prior)
+
+<img width="672" height="582" alt="pemrsMariadb" src="https://github.com/user-attachments/assets/17496bae-2c56-4f2a-a9bf-3cc7fccbbac7" />
+
+*note that mariadb doesnt warn if you are granting permission to a database that never existed
+
+** *.* can be used in place of database name if you want to give access to all databases in server
+
+<br/>
+<br/>
+
+Removing Permissions (removing mydatabase):
+
+<img width="954" height="580" alt="removepermsMaria" src="https://github.com/user-attachments/assets/d37db9f3-e683-4ce3-96db-83b4ef2cba6f" />
+
+new perms 
+
+<img width="954" height="581" alt="newpermsMaria" src="https://github.com/user-attachments/assets/623bf3d8-05cc-4069-a464-1ebdccc191dd" />
+
+<br/>
+<br/>
+
+Remote Access (Adding data to ISEA_Test, from clone VM):
+
+SSH View
+
+<img width="1283" height="886" alt="clonedLoginMaria" src="https://github.com/user-attachments/assets/647a8aee-72c1-4a46-a393-98db19457080" />
+
+*note the VM's name in the top left
+
+**MariaDB can login remotely without using SSH if configured for it according to my research
+
+***Remote user needs to install MariaDB-client-core before being able to remotely login
+
+<br/>
+<br/>
+
+after adding a few data entries
+
+<img width="1282" height="886" alt="coupleoflinesMaria" src="https://github.com/user-attachments/assets/5665024e-b687-4e5d-a178-3d0074163e80" />
+
+*this is the view of the table in the database
+
+<br/>
+<br/>
+
+local view
+
+<img width="1283" height="885" alt="localViewMaria" src="https://github.com/user-attachments/assets/e8c40ba2-0810-4f05-bd58-21369e189821" />
+
+*again, note the VM's name in the top left
 
 <br/>
 <br/>
