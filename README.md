@@ -263,12 +263,15 @@ TCO:
 <br/>
 
 Company:
+<br/>
 
 Assuming company “A” uses paper prints for supporting documents in business meetings and meeting notes. Assumed 140 pages are printed a week. No scanning of documents will be done. The printer is expected to be used for a minimum of 5 years and will be left idle from Monday to Friday, 8:00 am to 6:00 pm (50 hours in total). Assume even use of all colours during coloured prints, and black is used 3x more than CMY.
 <br/>
 <br/>
 
 Consumables used (a year):
+<br/>
+
 6850 sheets of paper (assume all single-sided prints)
 2350 hrs left on/powered (940hrs active, 1410 hrs idle)
 <br/>
@@ -285,6 +288,7 @@ HL-L3230CDN Laser Printer ($358)
 <br/>
 
 specs:
+<br/>
 
 MFC-J3940DW Inkjet Printer ($718):
 3k pages for black ($54/cartridge)
@@ -339,6 +343,7 @@ Up to A4 Prints
 <br/>
 
 Power cost (in order):
+<br/>
 
 940h printing, 1410h idle/ready(HP), 6410h off
 <br/>
@@ -352,6 +357,7 @@ Power cost (in order):
 <br/>
 
 Paper cost:
+<br/>
 
 Total paper use = 34250 = 68.5 REAMS
 Assuming company has a contract with PaperOne for 70g paper
@@ -361,6 +367,8 @@ Used = ~$236.33
 <br/>
 
 TCO (in order):
+<br/>
+
 718 + 1000 + 236.33 + 1991.38 = $3,945.71
 599 + 3921 + 118027.66 + 236.33 = $122,783.33
 368 + 2412 + 24881.78 + 236.33 = $27,898.11
@@ -371,6 +379,8 @@ TCO (in order):
 <br/>
 
 Conclusion:
+<br/>
+
 For Company “A”, the HL-L3240CDW Laser Printer is the best printer for them as it has the lowest TCO.
 <br/>
 <br/>
@@ -387,7 +397,8 @@ Apart from TCO, the printer’s capability, compatibility and upfront cost also 
 
 For a large workgroup, the ideal printer would have a high PPM count, high sheet capacity and good reliability as we want to reduce the time wasted on waiting for a printer to finish it’s task, time used to refill the paper tray and resources spent/hours wasted on repairs
 Assuming that the chosen printers don’t break down, the TCO gap between all of them will remain the same. However, the only time the TCO will the same is if one printer keeps breaking down and require maintenance/repairs.
-
+<br/>
+<br/>
 
 ##########################################################################
 <br/>
