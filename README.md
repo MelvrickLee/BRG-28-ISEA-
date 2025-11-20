@@ -263,6 +263,7 @@ TCO:
 <br/>
 
 Company:
+
 Assuming company “A” uses paper prints for supporting documents in business meetings and meeting notes. Assumed 140 pages are printed a week. No scanning of documents will be done. The printer is expected to be used for a minimum of 5 years and will be left idle from Monday to Friday, 8:00 am to 6:00 pm (50 hours in total). Assume even use of all colours during coloured prints, and black is used 3x more than CMY.
 <br/>
 <br/>
